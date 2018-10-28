@@ -987,7 +987,8 @@ int negate(int x)
  */
 int oddBits(void)
 {
-    return 42;
+    return 0xAAAAAAAA;
+    //return 42;
 }
 
 /*
